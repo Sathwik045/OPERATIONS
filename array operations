@@ -1,3 +1,5 @@
 numbers = [1,2,3,4]
 numbers.append(5);
-print("numbers");
+print(numbers);
+numbers.push(0);
+print(numbers);
